@@ -8,7 +8,7 @@ I am a web devoloper based in Ladysmith, Vancouver Island, Canada (About 2-3 hou
 
 Apparently, I look the same working in quarantine or not lol. 
 
-I am non-ironically obsessed with ponies🐴 . unicorns🦄  and purple. I also ride horses and ponies in real life. 
+I am non-ironically obsessed with ponies 🐴 . unicorns 🦄  and purple. I also ride horses and ponies in real life. 
 
 - 2017 Graduate of CodeCore Bootcamp 
 - Often Not But Always Purple
