@@ -7,11 +7,11 @@ Currently I am focused on learning React/Gatsby, Redux and GraphQL. I also have 
 
 I am non-ironically obsessed with ponies 🐴 . unicorns 🦄   and purple. I also ride horses and ponies in real life. I also enjoy photography and somtimes video making. Yes, my VS Code and terminal are purple... 
 
-- 🎓   2017 Graduate of CodeCore Bootcamp. Also 2013 SFU Graduate BA (English)
+- 🎓   2017 Graduate of CodeCore Bootcamp. Also 2013 SFU BA (English)
 - 💜    Often Not But Always Purple
 - 🙃 Weirdo 
 - 🐴 Horse and Pony Obsessed 
-- 🇨🇦 Canadian based
+- 🇨🇦 Canadian (BC - Pacific Time)
 
 Currently interested in small basic, brochure site projects and similar (Gatsby or similar or html/css).
 
