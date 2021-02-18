@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-I am looking for a remote job! Front-end, some full stack okay too. Part-time is fine! Internship is fine (as long as there's actually mentorship). 
+I am looking for a remote job! Front-end, some full stack okay too. Part-time or contract is fine! Internship is fine (as long as there's actually mentorship). Not looking for a full time role. Thanks.
 
 I found out this! You make a profile readme by making a repo under your using name and ading md. How cool is that?
 
