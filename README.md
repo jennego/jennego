@@ -9,6 +9,7 @@ I am non-ironically obsessed with ponies 🐴 . unicorns 🦄   and purple. I at
 0
 
 - 🎓   2017 Graduate of CodeCore Bootcamp. Also 2013 SFU BA (English)
+- Frontend (React, templating etc) and JAMstack, with some backend skills (APIs, MVC like Rails)
 - 💜    Often Not But Always Purple
 - 🙃 Weirdo 
 - 🐴 Horse and Pony Obsessed 
