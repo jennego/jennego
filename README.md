@@ -16,7 +16,5 @@ I am non-ironically obsessed with ponies 🐴 . unicorns 🦄   and purple. I at
 - 🐴 Horse and Pony Obsessed 
 - 🇨🇦 Canadian (BC - Pacific Time)
 
-Currently working on learning: Elixir, Phoenix, GraphQL, more React  
-
 Check out my [portfolio](http://www.jenniferchow.ca/). 
 Follow my creature 🐴🐐🐕   adventures on [instagram](https://www.instagram.com/thejennego/) and follow my lease horse, Ray and his Moustache [on Instagram ](https://www.instagram.com/rayhorsemoustache). 
