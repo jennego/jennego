@@ -2,7 +2,7 @@
 
 I am looking for a remote job! Front-end, some full stack okay too. Part-time or contract is fine! Internship is fine (as long as there's actually mentorship).
 
-Looking for a job for Fall 2022 and on! Remote only, flexible on everything else. 
+Looking for a job! Remote only, flexible on everything else. 
 
 I'm Jennifer or Jen. I am a web developer based in Ladysmith, Vancouver Island, Canada (About 2-3 hours from Vancouver via Ferry).  
 Currently I am focused on learning React/Gatsby, Redux and GraphQL. Most of my personal projects are currently with a JAMstack, usually with Gatsby. I also have done some Ruby on Rails, WordPress (sage), Django (as api source) and basic html/css sites.
